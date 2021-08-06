@@ -1,9 +1,10 @@
 # DevOps Malayalam
 
 ## **Azure For Beginners** 
-**Series 1**
-
-_4 August 21_ 
+_4 August 21_ <br>
+<br>
+**Series 1**  <br> <a href="https://www.youtube.com/watch?v=0XMyp4FSnsw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+<br> 
 
 ## Key Takeaways
 
