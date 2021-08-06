@@ -52,8 +52,8 @@ The **Resource Group** contains all the services we use and we can give individu
 
 API  is available in each region. API takes the request to the orchestrator and directs it to a specific location or Data center. The fabric controller identifies the availability at the data centers.
 
-[Microsoft Learn](https://docs.microsoft.com/en-in/learn/) A platform by microsoft to learn more about Azure free of cost. <b>
-**Getting started with Microsoft Learn**
+[Microsoft Learn](https://docs.microsoft.com/en-in/learn/) A platform by microsoft to learn more about Azure free of cost. <br>
+**Getting started with Microsoft Learn** <br>
 Create or use existing Microsoft account to login to the Microsoft Learn (Use the Sign-in button on the top right corner before you start the learning, Knowledge check and Labs)
 You will be provided with learning points and badges upon completion of each module, at the module the suggestions or path to the next module  will be provided.
 
